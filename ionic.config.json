@@ -1,5 +1,6 @@
 {
   "name": "quotes-app",
   "integrations": {},
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "id": "21d7463b"
 }
